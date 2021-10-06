@@ -1,0 +1,5 @@
+level score: 10
+Написать программу, которая печатает введённое число
+
+a = int(input('input number: '))
+print(a)
